@@ -1,6 +1,8 @@
 # Programación Avanzada - UNLaM
 Ejercicios y proyectos de la materia `Programación Avanzada`. En el mismo se encuentran implementados diversos algoritmos vistos en clase, desarrollados en lenguaje de programación `Java`.
 
+[Repositorio de la Catedra](https://github.com/programacion-avanzada)
+
 ## Información de la Asignatura :scroll:
 * **Carrera**: Ingeniería en Informática
 * **Materia**: Programación Avanzada (3652)
