@@ -1,26 +1,36 @@
 # Programación Avanzada - UNLaM
 Ejercicios y proyectos de la materia `Programación Avanzada`. En el mismo se encuentran implementados diversos algoritmos vistos en clase, desarrollados en lenguaje de programación `Java`.
+
 ## Información de la Asignatura :scroll:
+* **Carrera**: Ingeniería en Informática
 * **Materia**: Programación Avanzada (3652)
 * **Cuatrimestre**: Primer Cuatrimestre
 * **Año**: 2024
+* **Grupo**: 6
+  
 ## Trayecto Infraestructura :school:
-* **Año Académico**: Tercero - Segundo Cuatrimestre
+* **Año Académico**: Tercer Año - Segundo Cuatrimestre
+* **Responsable / Jefe de catedra**: Aubin, Verónica Inés
 * **Carga Horaria Semanal**: 4 hs
 * **Carga Horaria Total**: 64 hs
 * **Modalidad**: Semipresencial
 * **Correlativas anteriores**
   * Base de Datos Aplicada (3641)
   * Paradigmas de Programación (3646)
+
 ## Docentes :woman_teacher:	:man_teacher:
-* Veronica Aubin
-* Lucas Videla
+* Aubin, Veronica Inés
+* Videla, Lucas
+
 ## Integrantes :man_student::woman_student:	
-* Federico Loiero
-* Juan Bianchi
-* Leandro Sandoval
-* Nicole Ocampo
-* Tomas Rojas
+| Apellido/s | Nombre/s |
+|--|--|
+| Bianchi | Juan Alberto |
+| Loiero | Federico Nicolas |
+| Ocampo | Nicole Fabiana |
+| Rojas | Tomas |
+| Sandoval Vasquez | Juan Leandro |
+
 ## Temas :books:
 * **Complejidad Computacional**
   * Estabilidad
