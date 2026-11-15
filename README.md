@@ -61,6 +61,9 @@ Ejercicios y proyectos de la materia `Programación Avanzada` (3652) - 1C 2024 -
     * TimSort.
 
 ### Unidad 2 - Complejidad Computacional
+
+![Complejidad Big O](https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/784351333_122293580948189612_3264780890133388275_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3MTcwNzIzMTA3NDU5MTI0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=E-cPNyO2plcQ7kNvwF4bGHt&_nc_oc=AdrBD8gNLzm5FmopK3kSxAXtUYra7Oextxvz6cTK3K9DO_WWmd69GKFbA2caTlYR45s_sb0_XLkc9Magvadm0_NI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=kXUDHu7pXUEQsKfwSenWOg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTwMhOCs2VQoU1V2LjOJ39jRjFjA795P3OyBT4Y5ZxJ0g&oe=6AFF34DC)
+
 * Problemas P vs NP.
 * Tipos de complejidad.
 * Costo Computacional.
@@ -69,7 +72,7 @@ Ejercicios y proyectos de la materia `Programación Avanzada` (3652) - 1C 2024 -
 * Medición del tiempo de ejecución de un algoritmo.
 * Orden de un algoritmo.
 * Velocidad de crecimiento del tiempo de ejecución.
-* Notación Big Oh.
+* Notación Big O.
 * Notación asintótica.
 * Cálculo del tiempo de ejecución de un programa.
 * Efectos al aumentar la velocidad del computador y/o al aumentar el tamaño del problema.
