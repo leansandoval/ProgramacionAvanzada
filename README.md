@@ -1,5 +1,5 @@
-# Programación Avanzada - UNLaM
-Ejercicios y proyectos de la materia `Programación Avanzada`. En el mismo se encuentran implementados diversos algoritmos vistos en clase, desarrollados en lenguaje de programación `Java`.
+# Programación Avanzada
+Ejercicios y proyectos de la materia `Programación Avanzada` (3652) - 1C 2024 - UNLaM. En el mismo se encuentran implementados diversos algoritmos vistos en clase, desarrollados en lenguaje de programación `Java`.
 
 [Repositorio de la Catedra](https://github.com/programacion-avanzada)
 
@@ -34,55 +34,81 @@ Ejercicios y proyectos de la materia `Programación Avanzada`. En el mismo se en
 | Sandoval Vasquez | Juan Leandro |
 
 ## Temas :books:
-* **Complejidad Computacional**
-  * Estabilidad
-  * Sensibilidad
-  * Costo Computacional
-  * Tiempo de Ejecución
-  * Notación Big Oh
 
-* **Algoritmos de Ordenamiento Elementales**
-  * Burbujeo
-  * Inserción
-  * Selección
+### Unidad 1 - Análisis de Algoritmos
+* Algoritmos y sus implantaciones.
+* Comparaciones de los distintos algoritmos en función de sus operaciones básicas.
+* Algoritmos de ordenamiento y búsqueda.
+* Utilización de estructuras estáticas y dinámicas.
+* Estabilidad y sensibilidad a la entrada de un algoritmo de ordenamiento.
+* Algoritmos de Ordenamiento Elementales
+    * Burbujeo.
+    * Inserción.
+    * Selección.
+* Algoritmos recursivos.
+* Divide y vencerás
+    * Partición de subproblemas.
+    * Recombinación de soluciones.
+* Algoritmos de Ordenamiento no Elementales
+    * ShellSort.
+    * QuickSort.
+    * MergeSort / Fusión.
+    * TimSort.
 
-* **Algoritmos de Ordenamiento no Elementales**
-  * ShellSort
-  * QuickSort
-  * MergeSort / Fusión
-  * TimSort
+### Unidad 2 - Complejidad Computacional
+* Problemas P vs NP.
+* Tipos de complejidad.
+* Costo Computacional.
+* Coste en tiempo y espacio.
+* Caso peor, mejor y medio.
+* Medición del tiempo de ejecución de un algoritmo.
+* Orden de un algoritmo.
+* Velocidad de crecimiento del tiempo de ejecución.
+* Notación Big Oh.
+* Notación asintótica.
+* Cálculo del tiempo de ejecución de un programa.
+* Efectos al aumentar la velocidad del computador y/o al aumentar el tamaño del problema.
+* Análisis del coste de algoritmos iterativos y recursivos.
 
-* **TDA Montículo y Cola de Prioridad**
-  * Montículo de Máximos
-  * Montículo de Mínimos
+### Unidad 3 - Estructuras - TDA (Tipos de Datos Abstractos)
+* Montículo
+    * De máximos.
+    * De mínimos.
+* Cola de Prioridad.
+    * Operaciones.
+* Distintas implementaciones.
 
-* **Programación Dinámica**
-  * Top-Down / Memorización
-  * Bottom-Up / Tabulación
+### Unidad 4 - Programación Dinámica
+* Principio de optimalidad.
+* División en subproblemas.
+* Recursividad vs aproximaciones
+    * Top-Down / Memorización.
+    * Bottom-Up / Tabulación.
+* Análisis con base en los conceptos de Complejidad Computacional.
 
-* **Grafos**
-  * Costos
-
+### Unidad 5 - Algoritmos de Grafos
+* Conceptos de Grafos.
+* Teoría.
+* Representaciones
+    * Matriz de Adyacencia.
+    * Listas de Adyacencia.
+* Búsquedas (Recorridos)
+    * En profundidad - DFS.
+    * En anchura - BFS.
+* Costos
     * Algoritmo de Dijkstra
     * Algoritmo de Floyd
     * Algoritmo de Warshall
-
-  * Minimum Spanning Tree
-    
+* Minimum Spanning Tree  
     * Algoritmo de Prim
     * Algoritmo de Kruskal
     * Union-Find
-
-  * Coloreo
-  
+* Coloreo
     * Algoritmo Secuencial
     * Algoritmo de Welsh Powell
     * Algoritmo de Matula
-  
-  * Recorrido
-  
-    * DFS
-    * BFS
+* Resolución de problemas reales y ficticios.
+
 ## Herramientas :desktop_computer:
 * **IDE Utilizado**: [Eclipse](https://eclipseide.org/)
 * **Versión de Java**: [Java SE 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
