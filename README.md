@@ -36,6 +36,11 @@ Ejercicios y proyectos de la materia `Programación Avanzada` (3652) - 1C 2024 -
 ## Temas :books:
 
 ### Unidad 1 - Análisis de Algoritmos
+
+![Algoritmos](https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/841141427_1586567923483131_6911040456139697466_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNTUzMDMzODg2NDg0NDg3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=22o7vnkK3VIQ7kNvwGeSfvC&_nc_oc=AdrXWJZAl1zsbw_Xq1eLWoJn3yHjNsdxQpbyGbi6WPjsTVueiiM7IaGkX1HEiwrq6CSJPoBUXOnXpqArNurG91s5&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=vTJzRwypq9CCFd_9lYrBuQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSDu25R2NcIMgUYvx4-EkrL9cID0Kzdi16G5mr6S7MkyA&oe=6AFF0AAD)
+
+![Algoritmo QuickSort](https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/752313286_122288558984189612_4280535812429927436_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0ODUxNDM2NzMxMDE5MzE5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IXevhSEeR6kQ7kNvwFtjb3Y&_nc_oc=AdqtgAP9LT_weeldZc_lWuwK1guuMc6ivDHiGo-tQvIxIWTolhmsQIf4Ph3htTHq_OprKeMN52XW8jxIt7_dvrw4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=moJlJI5vGuxWPH_1o_g6Dw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQth1QtOSVOM35jpg_O4g1V41eciDYqu0aorXMMo2_9Og&oe=6AFF078F)
+
 * Algoritmos y sus implantaciones.
 * Comparaciones de los distintos algoritmos en función de sus operaciones básicas.
 * Algoritmos de ordenamiento y búsqueda.
@@ -87,6 +92,9 @@ Ejercicios y proyectos de la materia `Programación Avanzada` (3652) - 1C 2024 -
 * Análisis con base en los conceptos de Complejidad Computacional.
 
 ### Unidad 5 - Algoritmos de Grafos
+
+![¿Qué es un Grafo?](https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/789013155_122294659436189612_3087626862286317469_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3Njc4MDU3ODkwODM1MjIzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZZoqeSoLREkQ7kNvwHfQL35&_nc_oc=AdrHa2kLYMspUZNierqm6zY4w64Cwyb6ZZo74_D4giF7ezoA0aglNqx22_rrQvy4ICYd2yI-hQqMepGe5QTXprv-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=EWN6VurPF8e0WPGNYrY9XA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQPvAARSc4D99v5JrMdaBl29I0QCp1K7Kh0S0yeKJOXKg&oe=6AFF262B)
+
 * Conceptos de Grafos.
 * Teoría.
 * Representaciones
