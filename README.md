@@ -14,7 +14,7 @@
 
 ## 📑 Índice
 - [Información de la Asignatura](#informacion-de-la-asignatura)
-- [Trayecto - Infraestructura](#trayecto)
+- [Trayecto - Programación](#trayecto)
 - [Docentes](#docentes)
 - [Integrantes](#integrantes)
 - [Unidad 1 - Análisis de Algoritmos](#unidad-1)
@@ -40,7 +40,7 @@
 * **Grupo**: 6
 
 <a id="trayecto"></a>
-## 👨‍💻 Trayecto - Infraestructura
+## 💻 Trayecto - Programación
 * **Año Académico**: Tercer Año - Segundo Cuatrimestre
 * **Responsable / Jefe de cátedra**: Aubin, Verónica Inés
 * **Carga Horaria Semanal**: 4 hs
