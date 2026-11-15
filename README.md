@@ -98,6 +98,8 @@ Ejercicios y proyectos de la materia `Programación Avanzada` (3652) - 1C 2024 -
 
 ![¿Qué es un Grafo?](https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/789013155_122294659436189612_3087626862286317469_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3Njc4MDU3ODkwODM1MjIzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZZoqeSoLREkQ7kNvwHfQL35&_nc_oc=AdrHa2kLYMspUZNierqm6zY4w64Cwyb6ZZo74_D4giF7ezoA0aglNqx22_rrQvy4ICYd2yI-hQqMepGe5QTXprv-&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=EWN6VurPF8e0WPGNYrY9XA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQPvAARSc4D99v5JrMdaBl29I0QCp1K7Kh0S0yeKJOXKg&oe=6AFF262B)
 
+![Algoritmo de Kruskal](https://scontent.fepa2-1.fna.fbcdn.net/v/t39.99422-6/729889753_883437360854065_2915221587251546945_n.png?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=s1024x1536&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHk6Ph8zuAoYKoMNqemvpFhmaVEzjM1-jCZpUTOMzX6MMq-teaHrImPRwD24OfXe6mmfLX_dAUL468ABel5n5Sl&_nc_ohc=G5WEvNXB-1cQ7kNvwFN_ato&_nc_oc=AdrFUFS1v1CLZ8rdkSc8CzlcaIiE0o1p7rzE3k2bqphcVGZ6roMSeg-BGiXd91-FWSZhUBsSCBUNP_VKvyd5ULz9&_nc_zt=14&_nc_ht=scontent.fepa2-1.fna&_nc_gid=tphSTnv8ZxrlQOoKydUNRQ&_nc_ss=7b2a8&oh=00_AQStzaD7N13jRXbPgxQvQtEpBvdPYa9zIeTF5ZsbygsLgg&oe=6AFF3E2B)
+
 * Conceptos de Grafos.
 * Teoría.
 * Representaciones
