@@ -5,9 +5,9 @@
   <!-- Badges -->
   <img src="https://img.shields.io/badge/Universidad-UNLaM-1F4F90?style=for-the-badge&logo=google-scholar&logoColor=white" alt="UNLaM" />
   <img src="https://img.shields.io/badge/Año-2024-2EA043?style=for-the-badge" alt="2024" />
-  <img src="https://img.shields.io/badge/Estado-Completado-blue?style=for-the-badge" alt="Completado" />
   <img src="https://img.shields.io/badge/Lenguaje-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Grupo-6-7057D2?style=for-the-badge" alt="Grupo 6" />
+  <img src="https://img.shields.io/badge/Estado-Completado-blue?style=for-the-badge" alt="Completado" />
 </div>
 
 <br>
