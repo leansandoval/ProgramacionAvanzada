@@ -243,7 +243,7 @@
     <img src="https://iq.opengenus.org/content/images/2018/07/gc2.PNG" alt="Algoritmo de Welsh Powell" width="500" />
   </a>
   <br>
-  <sup><em>Demostración del Algoritmo de Welsh Powell para coloreo de grafos</em></sup>
+  <sup><em>Hace clic en la imagen para entrar al foro y visualizar: Demostración del Algoritmo de Welsh Powell para coloreo de grafos</em></sup>
 </div>
 <br>
 
