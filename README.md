@@ -107,7 +107,7 @@
     <img src="https://i.pinimg.com/originals/6c/fa/6f/6cfa6f10ba3dfd0a90b03cfb0926f05d.gif" alt="Vista previa del video" width="550" />
   </a>
   <br>
-  <sup><em>▶️ Visualización paso a paso de algoritmos de ordenamiento, junto con una explicación de dichos algoritmos</em></sup>
+  <sup><em>▶️ Hace clic en el GIF para mirar el video: Visualización paso a paso de algoritmos de ordenamiento, junto con una explicación de dichos algoritmos</em></sup>
 </div>
 <br>
 
