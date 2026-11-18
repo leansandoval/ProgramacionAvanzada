@@ -104,7 +104,7 @@
   <sup><em>Algoritmo No Elemental: MergeSort (Fusión)</em></sup>
   <br><br>
   <a href="https://www.youtube.com/watch?v=lfAymcJm3DY" target="_blank">
-    <img src="https://i.pinimg.com/originals/6c/fa/6f/6cfa6f10ba3dfd0a90b03cfb0926f05d.gif" alt="Vista previa del video" width="550" />
+    <img width="700" alt="Vista previa del video" src="https://github.com/user-attachments/assets/03e000ed-f562-48af-96b3-fb189b74a27d" />
   </a>
   <br>
   <sup><em>▶️ Hace clic en el GIF para mirar el video: Visualización paso a paso de algoritmos de ordenamiento, junto con una explicación de dichos algoritmos</em></sup>
@@ -140,11 +140,11 @@
   <br>
   <sup><em>Clasificación de órdenes de complejidad asintótica (Notación Big O)</em></sup>
   <br><br>
-  <img src="https://patriciaemiguel.com/assets/2019-09-04-complejidad-algoritmica-01.png" alt="Cálculo de Complejidad Computacional - Parte I" width="450" />
+  <img width="700" alt="Cálculo de Complejidad Computacional - Parte I" src="https://github.com/user-attachments/assets/0a2d6102-487b-4af9-8d8b-4f89d2768ff8" />
   <br>
   <sup><em>Cálculo de complejidad temporal y análisis de bucles - Parte I</em></sup>
   <br><br>
-  <img src="https://patriciaemiguel.com/assets/2019-09-04-complejidad-algoritmica-02.png" alt="Cálculo de Complejidad Computacional - Parte II" width="450" />
+  <img width="700" alt="Cálculo de Complejidad Computacional - Parte II" src="https://github.com/user-attachments/assets/48d76c7e-1c10-4fd2-976c-f12bfe2ddff1" />
   <br>
   <sup><em>Análisis de tasa de crecimiento y peor caso - Parte II</em></sup>
 </div>
@@ -240,7 +240,7 @@
   <sup><em>Estructura de Conjuntos Disjuntos (Union-Find)</em></sup>
   <br><br>
   <a href="https://iq.opengenus.org/welsh-powell-algorithm/" target="_blank">
-    <img src="https://iq.opengenus.org/content/images/2018/07/gc2.PNG" alt="Algoritmo de Welsh Powell" width="500" />
+    <img width="700" alt="Algoritmo de Welsh Powell" src="https://github.com/user-attachments/assets/3f7fcbd1-cc6d-4c8c-a09b-a4591e9d21a4" />
   </a>
   <br>
   <sup><em>Hace clic en la imagen para entrar al foro y visualizar: Demostración del Algoritmo de Welsh Powell para coloreo de grafos</em></sup>
