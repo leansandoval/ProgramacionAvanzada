@@ -75,31 +75,31 @@
 ## Unidad 1 - Análisis de Algoritmos
 
 <div align="center">
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/841141427_1586567923483131_6911040456139697466_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAwNTUzMDMzODg2NDg4NDg3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTEyMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=22o7vnkK3VIQ7kNvwGeSfvC&_nc_oc=AdrXWJZAl1zsbw_Xq1eLWoJn3yHjNsdxQpbyGbi6WPjsTVueiiM7IaGkX1HEiwrq6CSJPoBUXOnXpqArNurG91s5&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=vTJzRwypq9CCFd_9lYrBuQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSDu25R2NcIMgUYvx4-EkrL9cID0Kzdi16G5mr6S7MkyA&oe=6AFF0AAD" alt="Algoritmos" width="450" />
+  <img width="700" alt="Algoritmos" src="https://github.com/user-attachments/assets/47cec5e2-1ca0-41ab-a183-8a4c7e80ca70" />
   <br>
   <sup><em>Conceptos fundamentales y diseño de algoritmos</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/708345332_122280565328189612_1960935305813550255_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDg1NjUyNjU4NDA3NDgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Y3HXKeMo-yIQ7kNvwGarWFr&_nc_oc=AdoKd6Y4URO6FdDqpBXjIuq3GmL23vnUe_X4QbgTf4_9TkDG_NS2eaOhlCkD2BOItb165YGW0eju-EQPvC1VMCrp&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=QO-0DV2Qi-n7CHjAYj2kxA&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQsQdIqvwfRIQeWpqKoLd9Jo4qrShpm_MPc5Bfv1ywusQ&oe=6AFF78B4" alt="Algoritmos Recursivos" width="450" />
+  <img width="700" alt="Algoritmos Recursivos" src="https://github.com/user-attachments/assets/992c9a66-8cb2-48b3-a54a-9af064f9f7f0" />
   <br>
   <sup><em>Estructura y funcionamiento de Algoritmos Recursivos</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/709121851_122280563924189612_644461336234656846_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDc3NTA1Nzk2NjIzODc0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5_uW_M_U-MsQ7kNvwFO_lEA&_nc_oc=AdouZ_-nXRHf7LRSd7u2IgBQ3BxZPUUtnDq0atgYGW8kJLLJ8bV9ASmOeMmQf8UPL6HlN3nbEG4isVRUjghV9b1s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=pYcy0-YHXy-4lVeH4cLcRw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQZrttE7IBcu1uP9S7js6BokhoAcsUcceA7_fwkdvIsKg&oe=6AFF93C2" alt="Búsqueda Lineal" width="450" />
+  <img width="700" alt="Búsqueda Lineal" src="https://github.com/user-attachments/assets/0bf72034-c339-4f95-8b42-eed0e006a5e4" />
   <br>
   <sup><em>Búsqueda Sequencial / Lineal en arreglos</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/708289354_122280564404189612_6475563367937656656_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDcwNTczMzI3NzAxMjk0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xImbG-dfWRgQ7kNvwH4UoWv&_nc_oc=AdpKxLXkK-dF4pCTJR1UcO9vYBsII8YK6ikSfLKTxRyeQ0H8xaglAbQybYbRK28qQzlF9FSNJxOfebFrNEmGLMaN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=59CaXiOgnkInz6EYfqU8mw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRjLYLP_M7OMMCeiY3uiW5aUKnjH12HIflTLHgaE6hVZQ&oe=6AFF7E7F" alt="Búsqueda Binaria" width="450" />
+  <img width="700" alt="Búsqueda Binaria" src="https://github.com/user-attachments/assets/c30f2cdd-75cc-45a4-8844-e68f532e1d00" />
   <br>
   <sup><em>Búsqueda Binaria en estructuras ordenadas</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-2.fna.fbcdn.net/v/t39.30808-6/710781896_122280564308189612_18807177197279600_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDczNTM4NTA3NzcwMDA5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SVttfRxY2-8Q7kNvwH1YWvG&_nc_oc=AdqSsC3GCPe2EeBAwqJnn8z2LOs09SQywC_dpxBtQFXeAmY7QEJDSVHGCHWkkBvgQgut7cq6BgRJyrm2RVEaQ_Lc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-2.fna&_nc_gid=y6bkFD9YkNof7dyIMvQbcQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSJs8h0H27cMJX7WGek7DDYv_x7fLyJHD2lqfqUfzAKzg&oe=6AFF7646" alt="Algoritmo Burbujeo" width="450" />
+  <img width="700" alt="Algoritmo Burbujeo" src="https://github.com/user-attachments/assets/ac3b4956-66b4-415f-98ab-1e4fb1b76ea9" />
   <br>
   <sup><em>Algoritmo de Ordenamiento Elemental: Burbujeo (Bubble Sort)</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/752313286_122288558984189612_4280535812429927436_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=Mzk0ODUxNDM2NzMxMDE5MzE5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=IXevhSEeR6kQ7kNvwFtjb3Y&_nc_oc=AdqtgAP9LT_weeldZc_lWuwK1guuMc6ivDHiGo-tQvIxIWTolhmsQIf4Ph3htTHq_OprKeMN52XW8jxIt7_dvrw4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=moJlJI5vGuxWPH_1o_g6Dw&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQth1QtOSVOM35jpg_O4g1V41eciDYqu0aorXMMo2_9Og&oe=6AFF078F" alt="Algoritmo QuickSort" width="450" />
+  <img width="700" alt="Algoritmo QuickSort" src="https://github.com/user-attachments/assets/3b9c7ae9-83cd-4621-96cd-51a680c47dcb" />
   <br>
   <sup><em>Algoritmo No Elemental: QuickSort (Divide y Vencerás)</em></sup>
   <br><br>
-  <img src="https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/709425666_122280565118189612_2971400643253630534_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDc5NTg4MzAyOTQ4MjY4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vRmOmLcLRJYQ7kNvwEEE6zT&_nc_oc=AdplXeh2-qxwq8kGnl6XlD89vZq8lStywLkSC-z8uJ7jPZUmOEDNLum6IU2l14pp1uSSvIlOHlgO4__ggF9fZaEm&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=VgFUE2Xq72HD7AaV6Fbz6g&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTM-J86JLrCo8OVxZO1jDElhHamgVpy11jkYgrXylZKCw&oe=6AFF7817" alt="Algoritmo MergeSort" width="450" />
+  <img width="700" alt="Algoritmo MergeSort" src="https://github.com/user-attachments/assets/b2cd9410-2d92-4b2d-b9ec-06ec5be2eec3" />
   <br>
   <sup><em>Algoritmo No Elemental: MergeSort (Fusión)</em></sup>
   <br><br>
@@ -136,7 +136,7 @@
 ## Unidad 2 - Complejidad Computacional
 
 <div align="center">
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/784351333_122293580948189612_3264780890133388275_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3MTcwNzIzMTA3NDU5MTI0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=E-cPNyO2plcQ7kNvwF4bGHt&_nc_oc=AdrBD8gNLzm5FmopK3kSxAXtUYra7Oextxvz6cTK3K9DO_WWmd69GKFbA2caTlYR45s_sb0_XLkc9Magvadm0_NI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=kXUDHu7pXUEQsKfwSenWOg&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTwMhOCs2VQoU1V2LjOJ39jRjFjA795P3OyBT4Y5ZxJ0g&oe=6AFF34DC" alt="Complejidad Big O" width="450" />
+  <img width="700" alt="Complejidad Big O" src="https://github.com/user-attachments/assets/1b74b3d2-e1a2-42be-8859-76930f8f9f02" />
   <br>
   <sup><em>Clasificación de órdenes de complejidad asintótica (Notación Big O)</em></sup>
   <br><br>
@@ -169,11 +169,11 @@
 ## Unidad 3 - Estructuras - TDA (Tipos de Datos Abstractos)
 
 <div align="center">
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/790591303_122294661200189612_1901971611259997733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3NzI5NDA3MDQ2ODU4MDcxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=yw7CIdgBW_gQ7kNvwElaZPX&_nc_oc=Adoda-VAszK06-EpV6rEfKN0fYl-F7k-rOgFVrw5J3JVGGbLaqVnlQeQOC_6OoJUiaABR8t1GczsBtMM_-01EO0e&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=IJbbzoB4oqbjFsxqMfX3Ow&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSL0wVptoz1skLaQq0r8G1rgiCkcR8KKdosaTFSPi69Ng&oe=6AFF90DC" alt="Explicación de Monticulos" width="450" />
+  <img width="700" alt="Explicación de Monticulos" src="https://github.com/user-attachments/assets/d15cb3da-0910-4e30-a252-e3748fc022d8" />
   <br>
   <sup><em>Estructura y propiedad de Montículos (Heaps Max/Min)</em></sup>
   <br><br>
-  <img src="https://instagram.fepa2-1.fna.fbcdn.net/v/t39.30808-6/790684012_122294661236189612_2112539569499634721_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=Mzk3NzMyNDI4ODc4NDc4MjQzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE5OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=uMSF0mLVbXYQ7kNvwElGrFi&_nc_oc=Adp0YMeZk5yFxR66Z_ddf6wMuMrOAwJWyBkeP_b0hXTHPFSCA5Q58iKm4X_gaTuhJ_2VvDwVO0fvntVsYd-oQp2c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa2-1.fna&_nc_gid=Y2UZvArUTvl_m90wHJ1Y1A&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTvgDJNbxzemKb8PeFmSu2reEx3kjla8eL3x_OUudOpCw&oe=6AFFA431" alt="Explicación de Cola de Prioridad" width="450" />
+  <img width="700" alt="Explicación de Cola de Prioridad" src="https://github.com/user-attachments/assets/da902e93-6cbb-43d9-820f-84a3b717860d" />
   <br>
   <sup><em>Implementación de TDA Cola de Prioridad</em></sup>
 </div>
@@ -192,15 +192,15 @@
 ## Unidad 4 - Programación Dinámica
 
 <div align="center">
-  <img src="https://instagram.fepa1-1.fna.fbcdn.net/v/t39.30808-6/818655623_1362895192533821_3175607849028262363_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=Mzk5MTQwNDYyNDY4MzUxODcxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIzMS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=j0TQu_HJAdAQ7kNvwE05NjW&_nc_oc=AdpS2rGiVQH4BN8v_Bxg_cylR9pVHIPkGdJDq8X233sId-CVC30P_F_BZ5JGsKsLH4qlUD3QXYmObZt15rCnAEkt&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.fepa1-1.fna&_nc_gid=Zs5SK09UUufMlxMPEkg-rQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRvshMlBqMx1TnXRQW5hsYbq7K632vFozAIddygwE0iBQ&oe=6AFF7BE2" alt="Memorización vs Programación Dinámica" width="450" />
+  <img width="700" alt="Memorización vs Programación Dinámica" src="https://github.com/user-attachments/assets/01bacd1d-ca04-4277-821f-5bb3a8eeb09e" />
   <br>
   <sup><em>Comparativa: Memorización (Top-Down) vs Tabulación (Bottom-Up)</em></sup>
   <br><br>
-  <img src="https://instagram.faep28-1.fna.fbcdn.net/v/t39.30808-6/727268265_122283231896189612_6657028628740985310_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=MzkyMjI3Mjg4NTYwNDEwOTUzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI1NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RFZIrPiOJ1IQ7kNvwEMTMBG&_nc_oc=AdqtbL1gpfJPt5B2yrRaQfB2Vn9wuaL94jgbT_viwXtjvr4o3KcOju7_aKxkL_CfiZHZ2hHDYKFQqq65n22xG9lL&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.faep28-1.fna&_nc_gid=V7c5f82rM-SveqI5PX_aIQ&_nc_ss=7a22e&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSy3ACS7Q1l35GMSNXQHNHRWLHC5d7dNS1mSAwv9MAVaQ&oe=6AFF8EAE" alt="¿Qué es la Programación Dinámica? Versión 1" width="450" />
+  <img width="700" alt="¿Qué es la Programación Dinámica? Versión 1" src="https://github.com/user-attachments/assets/9e3913a2-1882-41ca-a896-7905b8e9cb22" />
   <br>
   <sup><em>Fundamentos y descomposición de subproblemas superpuestos - Parte I</em></sup>
   <br><br>
-  <img src="https://scontent.faep28-1.fna.fbcdn.net/v/t39.99422-6/864361359_1148176500981430_6167084807649492535_n.png?stp=dst-jpg_tt6&cstp=mx1024x1536&ctp=s1024x1536&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHk-wdyqXzMZvvZmM9_eUEwpvPJGiAjolKm88kaICOiUrA7jE_JgXMPUCPpqTQkXR-Lr5DHfkDCD84H81WYwbfN&_nc_ohc=Lt6LhSbQhPkQ7kNvwFo2srh&_nc_oc=Adpa4vFBpEyv6zGYhamXhkg9drYoX1THXOcXCq0v_0A82snMniOGGjWymh5ykwEhUR-up-KZFkfXVZFFueBTip8W&_nc_zt=14&_nc_ht=scontent.faep28-1.fna&_nc_gid=_btGkHajUb-A98dTEL_hHg&_nc_ss=7b2a8&oh=00_AQSDDRi3Mn_9ggxsBzzaqj9OG0OFB8XmLxEqG-NimBVpDw&oe=6AFFA54A" alt="¿Qué es la Programación Dinámica? Versión 2" width="450" />
+  <img width="700" alt="¿Qué es la Programación Dinámica? Versión 2" src="https://github.com/user-attachments/assets/55b698f5-d4b9-4c20-856b-6f38d7bd16f8" />
   <br>
   <sup><em>Optimización mediante almacenamiento de soluciones previas - Parte II</em></sup>
 </div>
