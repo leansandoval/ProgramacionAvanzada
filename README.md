@@ -27,7 +27,9 @@
 
 ---
 
-📚 [**Repositorio Oficial de la Cátedra**](https://github.com/programacion-avanzada)
+<div align="center">
+   <a href="https://github.com/programacion-avanzada" target="_blank">📚 <strong>Repositorio Oficial de la Cátedra</strong></a>
+</div>
 
 ---
 
